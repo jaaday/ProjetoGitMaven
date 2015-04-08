@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package projetogitmaven;
+package model;
 
 /**
  *
  * @author Melkran
  */
-public class NewClass {
+public class TestClass {
     
 }
